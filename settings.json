@@ -1,0 +1,14 @@
+{
+  "autoupdate:channel": "latest",
+  "conn:askbeforewshinstall": false,
+  "term:fontsize": 16,
+  "editor:fontsize": 16,
+  "term:fontfamily": "JetBrains Mono",
+  "term:theme": "default-dark-vivid",
+  "term:transparency": 1.0,
+  "term:copyonselect": true,
+  "term:scrollback": 10000,
+  "window:bgcolor": "#222225",
+  "window:magnifiedblockopacity": 0.33,
+  "window:magnifiedblocksize": 0.98
+  }
