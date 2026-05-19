@@ -2,7 +2,7 @@
     "default-dark-vivid": {
         "display:name": "Default Dark Vivid",
         "display:order": 1,
-        "black": "#1A1A1A",
+        "black": "#666666",
         "red": "#FF2A1F",
         "green": "#3CFF2E",
         "yellow": "#FFD600",
@@ -10,7 +10,7 @@
         "magenta": "#FF33FF",
         "cyan": "#00E8FF",
         "white": "#FFFFFF",
-        "brightBlack": "#555555",
+        "brightBlack": "#9A9A9A",
         "brightRed": "#FF6660",
         "brightGreen": "#7FFF5A",
         "brightYellow": "#FFEA4D",
@@ -18,11 +18,11 @@
         "brightMagenta": "#FF66FF",
         "brightCyan": "#4CFFFF",
         "brightWhite": "#FFFFFF",
-        "gray": "#A0A0A0",
+        "gray": "#C0C0C0",
         "cmdtext": "#F2F2F2",
         "foreground": "#F2F2F2",
-        "selectionBackground": "",
-        "background": "#1010101",
-        "cursor": "#00FFA0"
+        "selectionBackground": "#FF00FF",
+        "background": "",
+        "cursor": "#FF00FF"
     }
 }
